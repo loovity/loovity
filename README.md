@@ -1,8 +1,8 @@
 # Loovity
  
 
-Loovity pretend to be a hub for technological development where individuals can contribute to the advance of humanity. 
-This is the place for doing things.The Open Source hub of everything.
+Loovity pretends to be a hub for technological development where individuals can contribute to the advance of humanity. 
+This is the place for doing things. The Open Source hub of everything.
 
 ## Objectives:
 * Human development.
@@ -19,7 +19,7 @@ This is the place for organization, calculation, design, experimentation, progra
 ## Examples:
 * How to develop the space elevator.
 * Ideas for avoid plastics in our oceans.
-* Cure diseasses.
+* Cure diseases.
 * Develop the Sodium-ion battery.
 * Collaborate with the next mission to Mars.
 * Develop higher efficiency solar panels.
@@ -29,6 +29,6 @@ This is the place for organization, calculation, design, experimentation, progra
 
 ## Priorities:
 * Define governance and data structure of Loovity.
-* Develop the Loovity hub webpage.
+* Develop the Loovity hub web-page.
 
 ### Collaboration needed.
