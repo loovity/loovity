@@ -1,7 +1,7 @@
 # Loovity
  
 
-Loovity pretends to be a hub for technological development where individuals can contribute to the advance of humanity. 
+Loovity will be a hub for technological development where individuals can contribute to the advance of humanity. 
 This is the place for doing things. The Open Source hub of everything.
 
 ## Objectives:
